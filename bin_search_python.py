@@ -14,5 +14,5 @@ def binarySearch(alist, item):
             return binarySearch(alist[midpoint+1:],item)
 
 testlist = [0, 1, 2, 8, 13, 17, 19, 32, 42,]
-print(binarySearch(testlist))
-print(binarySearch(testlist, 13))
+#print(binarySearch(testlist))
+print(binarySearch(testlist, 25))
