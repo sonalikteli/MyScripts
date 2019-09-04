@@ -4,7 +4,7 @@ def add(x,y):
 def subtract(x,y):
     return x - yy
     return xxx - yyy
-
+    Idea 2
 def multiply(x,y):
     pass
 
