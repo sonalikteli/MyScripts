@@ -1,5 +1,5 @@
-def addtion(x,y,z):
-    print  abbc x+y+z
+def addtion(x,y):
+    return abbc x+y
 
 def subtract(x,y,z):
     return x-y-z
